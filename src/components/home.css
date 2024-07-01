@@ -1,0 +1,14 @@
+.adventures{
+    display: flex;
+    margin: 5px;
+}
+
+.single-adventure{
+    width: 30%;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.body  {
+    width: 800;
+}

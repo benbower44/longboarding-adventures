@@ -1,0 +1,14 @@
+.adventures{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.single-adventure{
+    width: 30%;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+fieldset{
+    margin: 10px;
+}

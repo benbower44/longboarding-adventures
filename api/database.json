@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "ben1",
+      "email": "gmail@gmail.com"
+    },
+    {
+      "id": 2,
+      "username": "cameron",
+      "email": "email@email.com"
+    },
+    {
+      "email": "henry1@gmail.com",
+      "username": "henry1",
+      "id": 3
+    }
+  ],
+  "adventures": [
+    {
+      "title": "Marshall Universities Campus",
+      "photo": "https://campusrecmag.com/wp-content/uploads/2016/05/building-day-n-side.jpg",
+      "synopsis": "If you're in or near Huntington WV, then this is a great place to cruise around. theres lots of food around if you get hungry and the scenery is amazing!",
+      "id": 1,
+      "userId": 1
+    },
+    {
+      "title": "Local Trip, Rio de Janeiro, Brazil",
+      "photo": "https://miro.medium.com/v2/resize:fit:1400/1*EZInRmRPikczLPSTsL-QkQ.jpeg",
+      "synopsis": "A legendary place, the oldest mountainboard park in the world. There are two different parks in one place: a cozy home spot with jumps, rails, and quarterpipe and the full-length boardercross track on a wide slope with big air.",
+      "id": 2,
+      "userId": 2
+    }
+  ],
+  "suggestions": [{
+    "title": "The hills in San Francisco would be fun to bomb",
+    "photo": "https://photos.smugmug.com/USA/California/San-Francisco-Buses-Cable-Cars/i-FKQtX3V/0/1d7ec1f3/500x500!/IMG_9574-500x500!.jpg",
+    "synopsis": "Not being serious, these hills would be too dangerous to ride down unless you're a maniac",
+    "id": 1,
+    "userId": 1
+  },
+  {
+    "title": "South Mountain Summit Road is goated ",
+    "photo": "https://live.staticflickr.com/428/31940066211_8ea7a9d8db_b.jpg",
+    "synopsis": "Best place I could suggest is the South Mountain Summit Road, its got a perfect grade and the turns aren't too sharp .",
+    "id": 2,
+    "userId": 2
+  }
+],
+  "messages": [
+    {
+      "userId": 1,
+      "message": "What is the best brand of longboard?",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "message": "Do I really need to wear a helmet and pads? I feel like a dork wearing them",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "messages": "hello",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "message": "boooo"
+    },
+    {
+      "userId": 2,
+      "text": "heyyy",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "userId": 2,
+      "message": "buggy"
+    },
+    {
+      "id": 7,
+      "userId": 2,
+      "text": "hi"
+    },
+    {
+      "id": 8,
+      "userId": 2,
+      "message": "hello"
+    }
+  ]
+}
